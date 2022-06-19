@@ -1,1 +1,1 @@
-# squarescubes-codeforces
+# squarescubes-cdf
